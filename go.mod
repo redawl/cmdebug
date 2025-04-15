@@ -1,3 +1,3 @@
-module github.com/redawl/cm1200info
+module github.com/redawl/cmdebug
 
 go 1.24.2
